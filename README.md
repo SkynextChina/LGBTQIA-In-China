@@ -246,6 +246,7 @@
 - [MM 喵了个](https://github.com/MMmiaolege)
 - [ReturnZeroGirl](http://www.returnzerogirl.top/)
 - [MingxuanGame](https://github.com/MingxuanGame)
+- [SkynextChina](https://github.com/SkynextChina)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
